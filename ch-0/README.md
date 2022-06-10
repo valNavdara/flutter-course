@@ -3,7 +3,7 @@
 
 <h1>რა შეუძლია ფლატერს</h1>
 <p>showcase</p>
-<img src="assets/facebook_template.png" />
+<img src="assets/facebook_post.jpg" />
 <h1>შავი ყუთი</h1>
 
 
