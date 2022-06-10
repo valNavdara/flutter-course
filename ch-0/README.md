@@ -67,7 +67,12 @@ class HomePage extends StatelessWidget {
 ```
 
 
+<h1>ჩონჩხის აწყობა სრულად</h1>
+
+<h1>ელემენტების ჩასმა<h1/>
+
 <h1>ჩვენი დაწერილი კოდი სრულად</h1>
+
 
 ```dart
 child: Column(
