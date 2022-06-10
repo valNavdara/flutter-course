@@ -21,7 +21,7 @@
 
 <h1>დიზაინის დაყოფა მწკრივებად და სვეტებად</h1>
 
-<img src="assets_post_layout.png" />
+<img src="assets/facebook_post_layout.png" />
 
 
 
