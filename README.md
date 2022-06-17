@@ -17,8 +17,7 @@
     <li>რა არის მონაცემთა ბაზები CRUD ოპერაციები Live Server_ის გამოყენებით</li>
     <li>პროექტი</li>
     <li>inputs & forms</li>
-    <li>კომპლექსური ლეიაუთები, Material design, UI best practices</li>
-    <li>ანიმაციები</li>
+    <li>კომპლექსური ლეიაუთები, Material design, UI best practices, მარტივი ანიმაციებ</li>
     <li>პროექტი</li>
     <li>Firebase - მიმოხილვა, რეგისტრაცია და აპლიკაციასთან დაკავშირება</li>
     <li>Firebase მომხმარებლის აუტენტიფიკაცია </li>
