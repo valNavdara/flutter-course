@@ -12,12 +12,13 @@
     <li>კოდის ორგანიზება - კალკულატორის აპლიკაციის კოდის ორგანიზება</li>
     <li>პროექტი</li>
     <li>pub.dev ბიბლიოთეკები, ვაწყობთ ქსილოფონის აპლიკაციას</li>
-    <li></li>
-    <li></li>
-    <li>პროექტი</li>
-    <li></li>
+    <li>dart - classes, constructors, შესავალი oop_ში</li>
     <li>რა არის back-end_ი, მარტივ API_ებთან დაკავშირება, jsonplaceholder, დინამიური კონტენტი</li>
-    <li></li>
+    <li>რა არის მონაცემთა ბაზები CRUD ოპერაციები Live Server_ის გამოყენებით</li>
+    <li>პროექტი</li>
+    <li>inputs & forms</li>
+    <li>კომპლექსური ლეიაუთები, Material design, UI best practices</li>
+    <li>ანიმაციები</li>
     <li>პროექტი</li>
     <li>Firebase - მიმოხილვა, რეგისტრაცია და აპლიკაციასთან დაკავშირება</li>
     <li>Firebase მომხმარებლის აუტენტიფიკაცია </li>
